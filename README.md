@@ -5,4 +5,5 @@ This repository contains (personal and academic) projects I have worked on perso
 Laguage | Showcase
 ------- | ------------
 R | Primary Component Analysis
-Summary: 
+
+Summary: The purposes of this project is to take a data set with a large amount of dimensions and reduce it as much as possible without compromising accuracy. Using regression analysis, I am able to identify the variables with a highest coefficients. From there I build 3 logistic regression models using different number of variables. Comparing the models, I find that only 3 variables are sufficient enough to produce a model with 84% accuracy.
