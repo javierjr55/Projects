@@ -10,9 +10,11 @@ R | Principal Component Analysis
 
 The purposes of this project is to take a data set with a large amount of dimensions and reduce it as much as possible without compromising accuracy. Using regression analysis, I am able to identify the variables with a highest coefficients. From there I build 3 logistic regression models using different number of variables. Comparing the models, I find that only 3 variables are sufficient enough to produce a model with 84% accuracy.
 
+[Presentation Video](https://www.youtube.com/watch?v=GT8udMCdZkM)
 
 ## Beer Bitterness Case Study
 Laguage | Showcase
 ------- | ------------
 R | Presentation
 
+[Presentation Video](https://www.youtube.com/watch?v=NqcYNXaNT-A)
